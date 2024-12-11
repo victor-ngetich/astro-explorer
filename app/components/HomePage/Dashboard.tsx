@@ -412,7 +412,12 @@ export default function Dashboard() {
         <main className="mx-auto max-w-2xl px-4 lg:max-w-7xl lg:px-8">
           <div className="border-b border-gray-200 pb-4 pt-8">
             <div className="flex flex-col space-y-4 sm:flex-row sm:items-center sm:justify-between sm:space-y-0">
-              <h1 className="text-xl text-center sm:text-2xl font-bold tracking-tight text-gray-900">Astronomical Objects</h1>
+              <h1
+                onClick={() => (window.location.href = "/")}
+                className="text-xl text-center sm:text-2xl font-bold tracking-tight text-gray-900 hover:opacity-80 active:scale-95 transition-all duration-150 cursor-pointer"
+              >
+                Astronomical Objects
+              </h1>
               {/* Search */}
               <div className="w-full sm:w-96">
                 <div className="grid grid-cols-1 items-center justify-center">
