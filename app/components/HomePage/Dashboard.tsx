@@ -7,7 +7,6 @@ import { XMarkIcon } from "@heroicons/react/24/outline";
 import { ChevronDownIcon, PlusIcon } from "@heroicons/react/20/solid";
 import Image from "next/image";
 import { MagnifyingGlassIcon } from "@heroicons/react/16/solid";
-import { CheckIcon } from "@heroicons/react/24/outline";
 
 const facets = [
   {
@@ -300,7 +299,7 @@ export default function Dashboard() {
 
   // Console print all objects
   const printAllCelestialObjectNames = () => {
-    const namesString = originalCelestialObjects.map((object, index) => `${object.name}`).join(" , ");
+    const namesString = originalCelestialObjects.map((object) => `${object.name}`).join(" , ");
 
     console.log("All Celestial Objects:");
     console.log(namesString);
