@@ -20,7 +20,7 @@
     "description": "The nearest major galaxy to the Milky Way",
     "galaxy": "Local Group",
     "distance_ly": 2537000,
-    "imageSrc": "https://plus.unsplash.com/premium_photo-1669839137069-4166d6ea11f4?q=80&w=2874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "imageSrc": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?q=80&w=2948&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "metadata": {
       "object-type": "galaxy",
       "magnitude": "bright",
@@ -35,7 +35,7 @@
     "description": "Also known as the Seven Sisters, a bright open star cluster",
     "galaxy": "Milky Way",
     "distance_ly": 444,
-    "imageSrc": "https://plus.unsplash.com/premium_photo-1669839137417-caaf1a4e00a9?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "imageSrc": "https://cdn.mos.cms.futurecdn.net/nwRnUEaELuneFsNgbF7vKM-1200-80.jpg.webp",
     "metadata": {
       "object-type": "star-cluster",
       "magnitude": "moderate",
@@ -80,7 +80,7 @@
     "description": "The most famous periodic comet, visible every 75-76 years",
     "galaxy": "Milky Way",
     "distance_ly": 0.00055,
-    "imageSrc": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/imagescomethalley-544-399.jpg",
+    "imageSrc": "https://cdn.mos.cms.futurecdn.net/zzCKzkAndgXbTKNoKCUqu9.jpg.webp",
     "metadata": {
       "object-type": "comet",
       "magnitude": "bright",
@@ -368,7 +368,7 @@
     "description": "The largest planet in our Solar System, known for its Great Red Spot and numerous moons",
     "galaxy": "Milky Way",
     "distance_ly": 0.000082,
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg",
+    "imageSrc": "https://cdn.esahubble.org/archives/images/screen/heic1410a.jpg",
     "metadata": {
       "object-type": "planet",
       "magnitude": "very-bright",
@@ -383,7 +383,7 @@
     "description": "Famous for its stunning ring system, this gas giant is often called the jewel of the Solar System",
     "galaxy": "Milky Way",
     "distance_ly": 0.000149,
-    "imageSrc": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/06/29/13/saturn-saved-earth.jpg?quality=75&width=1368&crop=3%3A2%2Csmart&auto=webp",
+    "imageSrc": "https://i.guim.co.uk/img/media/a5df48f4914a0e21a08619801a4ed3bd31f23983/476_383_1150_690/master/1150.jpg?width=1900&dpr=2&s=none&crop=none",
     "metadata": {
       "object-type": "planet",
       "magnitude": "bright",
@@ -398,7 +398,7 @@
     "description": "Often called Earth's sister planet due to similar size, known for its thick atmosphere and extreme greenhouse effect",
     "galaxy": "Milky Way",
     "distance_ly": 0.000015,
-    "imageSrc": "https://nssdc.gsfc.nasa.gov/planetary/image/venus.jpg",
+    "imageSrc": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/4551/Venus-Full_Globe-1024x1028-2.jpg?w=4096&format=jpeg&fit=clip&crop=faces%2Cfocalpoint",
     "metadata": {
       "object-type": "planet",
       "magnitude": "extremely-bright",
@@ -443,7 +443,7 @@
     "description": "The star at the center of our Solar System, providing light and energy to Earth and other planets",
     "galaxy": "Milky Way",
     "distance_ly": 0.0000158,
-    "imageSrc": "https://images.newscientist.com/wp-content/uploads/2023/08/03153215/SEI_166411202.jpg?width=1674",
+    "imageSrc": "https://bgr.com/wp-content/uploads/2021/12/AdobeStock_281795067.jpeg?resize=1020%2C574&quality=82",
     "metadata": {
       "object-type": "star",
       "magnitude": "extremely-bright",
